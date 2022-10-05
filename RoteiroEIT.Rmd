@@ -102,9 +102,9 @@ Cabe também ressaltar que o EIM constitui parcela das obrigações do responsá
 
 Estrutura de EIMs
 
-#	CAPA
+	CAPA
 
-#	CAPÍTULO 1 – IDENTIFICAÇÃO DO EMPREENDIMENTO (Item 4.2.2 Denatran 2001)  
+#	 – IDENTIFICAÇÃO DO EMPREENDIMENTO (Item 4.2.2 Denatran 2001)  
 
 ## Nome do empreendimento / Razão Social / Nome fantasia   
 ##	Identificação/Números dos processos que tramitam na PMPA - EU (Expediente Único) e SEI (quando houver)  
@@ -134,7 +134,7 @@ Estrutura de EIMs
 ###	Área de aproveitamento / Área ocupada do terreno  
 ###	Características socioeconômicas de moradores (para empreendimentos residenciais)    
 
-# 3	CAPÍTULO 2 – ANÁLISE DO PROJETO SOB ÓTICA VIÁRIA (Item 4.2.3 Denatran 2001)
+# – ANÁLISE DO PROJETO SOB ÓTICA VIÁRIA (Item 4.2.3 Denatran 2001)
 
 ##	Croquis de interseções significativas na área de influência direta 
 ##	Oferta, dimensionamento e distribuição de vagas de estacionamentos
@@ -154,4 +154,39 @@ Estrutura de EIMs
 ###	Vias internas de circulação
 ###	Cancelas de controle de acesso, caracterizando demanda, tempo de atendimento e área de acumulação (Item 5.2.1 Denatran 2001)
 ###	Descrição da sinalização das vias de acesso
+
+
+#	 – ANÁLISE DO ESPAÇO VIÁRIO (Item 4.2.3 Denatran 2001)
+##	Delimitação da Área de Influência Direta (caracterizado pelas vias de acesso e adjacentes)
+##	Caracterização do plano diretor para o local – quando houver
+##	Principais eixos de ligação à área de influência direta
+##	Características físicas da área de influência direta
+##	Análise da circulação na área de influência na situação sem o empreendimento
+###	Pesquisa de contagem volumétrica de veículos (volumes classificados)
+####	Informações sobre a pesquisa realizada e descrição metodológica
+####	Identificação da fonte de dados e apresentação de planilhas
+####	Croqui apresentando os movimentos encontrados nos picos
+####	Identificação dos períodos de pico de tráfego no entorno
+####	Identificação das áreas de impacto direto no tráfego local e de passagem
+###	Cálculo de Capacidade/nível de serviço da situação atual sem o empreendimento e futura com e sem o empreendimento, com ênfase nas vias de acesso e adjacentes
+####	Utilizar metodologia ICU e HCM
+##	Análise da circulação na área de influência na situação atual com o empreendimento (e horizonte de 10 anos – considerar expansão demográfica e de novos empreendimentos se for o caso)
+###	Aplicação do Modelo 4 Etapas
+####	Geração de Viagens
+####	Divisão Modal
+####	Distribuição das Viagens
+####	Alocação das Viagens
+###	Apresentação dos fluxos somados da contagem de tráfego e da alocação por pico
+###	Apresentação do modelo de expansão de matrizes
+###	Cálculo do nível de serviço da situação atual com o empreendimento
+####	Utilizar metodologia ICU e HCM
+###	Cálculo do nível de serviço da situação futura (horizonte de 10 anos) com o empreendimento
+####	Utilizar metodologia ICU e HCM
+####	Apresentação do modelo de projeção dos dados
+###	Análise comparada nos Níveis de Serviço e Capacidade Viária das principais interseções e acessos
+###	Avaliação do carregamento das principais interseções e acessos na hora pico, nos diferentes cenários considerados
+#	Análise das condições de oferta de transporte público e privado e das condições de operação considerando a situação atual e futura
+###	Análise das condições de circulação de modais alternativos, sobretudo aqueles relacionados à mobilidade ativa
+###	Avaliação das condições de acesso e circulação de veículos e pedestres no interior do empreendimento, bem como no entorno, considerando sobretudo as interferências acarretadas ao fluxo de passagem, considerando as condições vigentes de fluidez e segurança
+###	Apresentação da matriz de análise de impactos considerando a fase de ocorrência do impacto, efeito sobre o meio, magnitude dos impactos e medidas de mitigação ou reversibilidade
 
