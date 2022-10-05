@@ -232,6 +232,7 @@ CAPA
 
 <p> &nbsp;</p>
 <p> &nbsp;</p>
+
 #	Informações Adicionais (inovação no modelo):
 
 Projeção do Tráfego de Passagem:  
@@ -239,7 +240,19 @@ Para estimar o tráfego futuro sem o empreendimento urbanístico, são utilizada
 A situação futura com projeto é a soma da situação sem projeto com a situação com projeto. Com os dois cenários de análise, situação futura sem projeto e com projeto, é feita uma comparação dos níveis de serviço do sistema viário e são estabelecidos os impactos.  
 Quando houver dados atualizados, oriundos de fontes de dados oficiais, o responsável poderá sugerir para avaliação um cálculo de projeção que julgue adequado, apresentando os dados e o modelo matemático adotado. Após análise, a EPTC indicará se a proposta é aceitável ou se a projeção de 1,5% deve ser mantida.  
 
+<p> &nbsp;</p>
+# Medidas Compensátórias
+Atualmente a EPTC considera no entorno imediato todas as interseçõs como nível “D”. Nesse caso, empreendimentos com interseções em níveis “A”, “B” ou “C” podem acumular demanda utilizando a capacidade atual desde que não extrapolem o nível “D”, ou seja, um intervalo correspondente à 68% da capacidade. Esse modelo é bastante permissivo para empreendimentos instalados em regiões com boas condições de fluidez, ao mesmo tempo que é restritivo para aqueles casos com níveis de serviço acima de “D”, já que estes devem garantir a manutenção no nível de serviço pré-existente.  
 
+Diante disso, a proposta é de adotar a avaliação dos níveis de serviço de “A” a “C” a partir do quociente entre a variação do ICU sem projeto e a variação do ICU com projeto, nos horizontes de inauguração do empreendimento e futuro (10 anos) desde que tais níveis não alcancem o nível “D”. 
+Desse modo: 
+
+* Toda interseção que apresente um quociente superior a 2 (dois) deverá mitigar ou compensar tais efeitos e, em casos em que o quociente seja superior a 4 (quatro), deverá obrigatoriamente mitigar os efeitos no local em que voi identificada a variação do nível de serviço.   
+* Nos casos de “A” a “D” que ultrapassem o nível de serviço “D” com o empreendimento, as medidas mitigadoras deverão garantir uma situação em que o nível de serviço não ultrapasse “D”. 
+* Nos casos em que o nível de serviço atual for “D”, e com o empreendimento seja mantido o nível “D”, mas com variação superior a 2 pontos percentuais, deverão ser aplicadas mitigações.   
+* Por fim, naqueles casos com nível de serviço superior a “D” as medidas mitigadoras deverão assegurar no horizonte futuro adotado um nível de serviço igual ao do cenário futuro sem o empreendimento, desse modo variações superiores a 1 ponto percentual no ICU deverão ser mitigadas Tabela 1. A Figura 1 ilustra uma situação em que para aqueles cenários com ICU entre “A” e “C”, a regra da variação possa ser adotada.  
+
+Justificativa: As vias são projetadas em um horizonte de projeto de 25 a 30 anos, assim, tais vias são projetadas para capacidades que consideram o crescimento natural da demanda para o período que compõe o horizonte de projeto. Dessa maneira, quando um empreendimento gera uma alavancagem no crescimento que constitui o dobro do crescimento da demanda natural (quociente 2), isso faz com que a vida útil da instalação seja abreviada, conforme ilustrado na Tabela 2, no cenário do crescimento da demanda com o empreendimento, a capacidade da demanda de projeto atingida no 14º ano abreviando a vida útil de projeto em 11 anos.
 
 <p> &nbsp;</p>
 # Bibliografia:
