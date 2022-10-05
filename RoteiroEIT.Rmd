@@ -1,0 +1,157 @@
+---
+title: "ROTEIRO PARA ELABORAÇÃO DE ESTUDO DE IMPACTO NA MOBILIDADE (EIM)"
+output:
+  html_document:
+    df_print: paged
+    number_sections: yes
+    toc: yes
+    toc_float: yes
+  word_document:
+    toc: yes
+  pdf_document:
+    toc: yes
+---
+<style >
+      body {
+        text-align: justify;
+        font-size: 2em;
+        font-family: Arial;
+      }
+      titulo{
+        text-align: center;
+      }
+      h1 {
+        font-size: 30px;
+        text-align: ;
+      }
+      h2 {
+        font-size: 25px;
+        text-align: ;
+      }
+      h3 {
+        font-size: 22px;
+        text-align: ;
+      }
+      .main-container {
+        max-width: 1800px  !important;
+        margin-left: auto;
+        margin-right: auto;
+      }
+      .figure img{
+      border-style: dotted !important;
+      border-color:#333 !important;
+      margin-left: auto;
+        margin-right: auto;
+      }
+      .video-container {
+        position: relative;
+        padding-bottom: 56.25%; /* 16:9 */
+        height: 0;
+      }
+      .video-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+      }
+      </style> 
+
+
+Polos Geradores de Viagens (PGVs) são empreendimentos com capacidade de geração de volumes expressivos de viagens para deslocamento de pessoas ou cargas. De acordo com o Art. 93 do CTB, empreendimentos de grande porte caracterizados como polos geradores de tráfego somente podem ser aprovados após anuência do órgão ou entidade de trânsito com circunscrição sobre a via (BRASIL, 1997). Durante as etapas de execução e operação de grandes empreendimentos, os diferentes interessados compartilham os mesmos objetivos em relação à segurança e eficiência dos sistemas de transporte e mobilidade urbana, bem como a compatibilidade com a política de desenvolvimento urbano. Nesse sentido, análises de impacto de tráfego conduzidas de forma apropriada podem fornecer uma base factual para suportar decisões acertadas em relação às janelas temporais de mitigação de efeitos gerados por empreendimentos que produzem e/ou atraem viagens e caracterizados como PGVs (DENATRAN, 2001), garantindo a qualidade dos deslocamentos e seu uso sustentável por meio de uma distribuição justa e equitativa dos espaços de deslocamento (Licínio Portugal, 2012).  
+
+
+Dessa maneira, o município e responsáveis pelos PGVs devem promover iniciativas alinhadas que garantam ao cidadão seu direito de ir e vir através de  deslocamentos seguros, e que promovam a qualidade de vida e sustentabilidade (DENATRAN, 2001). Ainda que a municipalidade contribua fornecendo diretrizes, informações e orientações necessárias para elaboração de EIMs, é de responsabilidade do empreendedor a elaboração do EIM e a coleta de dados necessária que caracterizem e descrevam a influência de viagens geradas pelos PGVs no contexto total de viagens nas áreas de influência (DENATRAN, 2001; Licínio Portugal, 2012). Desse modo, os custos incorridos para elaboração do EIM e o ônus de medidas resultantes dos impactos apontados pelo EIM são de responsabilidade do empreendedor (PDDUA; Art. 56; Parágrafo Único, pag. 67)(DENATRAN, 2001).  
+
+Este documento consolida as diretrizes gerais para elaboração de EIMs de empreendimentos em Porto Alegre, considerando as definições do Manual de Procedimentos para o Tratamento de Polos Geradores de Tráfego (DENATRAN, 2001), e as diretrizes gerais indicadas pelo município de Porto Alegre em seu PDDUA. Todo emprendimento que, de acordo com os critérios estabelecidos pela EPTC, estiverem obrigados a elaborar seu EIM deverão considerar as definições desse documento e solicitar ao órgão de trânsito competente as diretrizes específicas ao emprendimento (caso existam) considerando as peculiaridades do local e do empreendimento.
+
+Os EIMs são adotados em casos de implantação, expansão ou mudança das finalidades de uso de PGVs. Tais estudos devem considerar valores de referência mínimos de viagens geradas por hora pico para que se defina o impacto dos mesmos e quando da desobrigação da realização de EIMs ou adoção de modelos simplificados dos mesmos. EIMs simplificados consideram apenas o ano base de inauguração do empreendimento, enquanto EIMs completos abordam horizontes temporais de 10 anos definidos pelo órgão competente. 
+No município de Porto Alegre os projetos objeto de EVU (Estudo de Viabilidade Urbanística) são caracterizados como Projetos Especiais de Impacto Urbano de 1º, 2º e 3º graus de acordo com os artigos 55, 56, 59, 61 e 62 do PDDUA.  
+
+Dessa forma EIMs requerem técnicas de previsão de demandas e análise de capacidade do sistema para suportar tais condições. Por meio de tais analises e previsões os EIMs devem avaliar a intensificação de congestionamentos (aumento dos tempos de deslocamento), a deterioração das condições físicas da área de influência (redução de conforto e segurança), os conflitos entre tráfego de passagem e aquele associado ao empreendimento (dificuldade de acesso a certas áreas), a demanda por áreas de estacionamento, embarque/desembarque e carga/descarga (DENATRAN, 2001). Também devem ser considerados os impactos sobre o transporte público (PDDUA; Art. 56.; I, a e Art. 57; V, DENATRAN, 2001 4.2.3, pag.24) e modais alternativos que promovam a sustentabilidade (Licinio Portugal, 2012).   
+
+Os EIMs, enquanto estudos especializados, permitem determinar potenciais impactos gerados por PGV, apontando benefícios gerados a serem maximizados e os impactos negativos considerados como pontos críticos e as possíveis alternativas de resolução dos mesmos (DENATRAN, 2001). Tais estudos respondem questões relacionadas a impactos derivados da implantação de PGVs (Erika Cristine Kneib, 2011), que consideram:   
+
+•	Condições atuais de tráfego  
+•	Expectativa de condições futuras com e sem a existência do PGV  
+•	A consideração de modais de maior produtividade social como modais ativos e transporte público  
+•	Capacidade do modelo atual de mobilidade em atender demandas futuras  
+•	Necessidades adicionais de mobilidade/acessibilidade que garantam a manutenção do atual Nível de Serviço (NS) para os diferentes modais   
+•	Recomendações de melhorias viárias para acomodar demandas futuras de tráfego  
+
+As respostas a essas questões contribuem para que a administração pública possa avaliar a conveniência dos PGTs e garantir que tais empreendimentos estejam comprometidos com os interesses coletivos da região.   
+
+Ao solicitar diretrizes para o EIM a ser realizado o empreendedor já deve de antemão fornecer documentos com o plano de edificação, destacando as finalidades de uso, expectativa de geração de viagens e apontamento dos modelos e fatores de cálculo para as estimativas de demanda – valores esses que poderão ser atualizados quando da elaboração do EIM. 
+
+As melhorias a serem executadas não necessariamente dependem apenas de resultados apontados no EIM visando eliminar, mitigar ou compensar os efeitos negativos identificados durante as fases de implantação/operação do empreendimento, mas podem ser solicitados pelo órgão gestor quando houver recomendações de melhorias necessárias à região identificadas em documentos como plano diretor (PDDUA; Art. 55; § 1º, pag. 66), e ainda, quando houver evidentes assimetrias no uso da estrutura viária no entorno do empreendimento relacionadas à oferta e demanda de vagas de estacionamento, ou uso da capacidade viária conforme a (Tabela 1. Regramento.) (DENATRAN, 2001).  
+
+Dessa maneira, responsáveis por PGTs em alinhamento com o órgão gestor de tráfego devem viabilizar os espaços internos necessários para estacionamento, embarque/desembarque e carga e descarga na área interna do empreendimento e garantir a melhor inserção possível do empreendimento na malha viária do município, reduzindo a perturbação no tráfego de passagem e o impacto na vizinhança ao garantir que o empreendimento irá absorver internamente a demanda gerada e tratar os conflitos externos gerados, bem como os problemas de acessibilidade de veículos e pedestres, ao mesmo tempo que assegure operações de carga e descarga em área específica do PGT.  
+
+Os responsáveis pela elaboração de EIMs deverão comprovar habilitação para realização de tais estudos. Neste caso o técnico responsável deverá fornecer documento assinado informando que se responsabiliza pela supervisão do estudo, atestando a veracidade dos dados apresentados – sob pena de responsabilização em caso de má fé na apresentação de dados precários sem a devida menção de qualquer limitação nas informações prestadas. Da mesma forma o órgão competente se compromete em submeter os estudos encaminhados a um corpo técnico habilidade e respaldado para análise de EIMs.   
+
+Embora responsáveis pela elaboração de EIMS e avaliadores de EIMS possuam papeis e objetivos específicos, ambos devem se comprometer em seguir critérios éticos e objetivos na condução de análises e revisões de EIMs visando a obtenção de melhores soluções em segurança, mobilidade, acessibilidade, conforto e preservação do ambiente circundante (PDDUA; Art. 56; I, a). 
+Os EIMs deverão obedecer às normas ABNT de redação e demais exigências aplicadas pelo órgão responsável.  Ainda, todos os dados de estudos, modelagens, cálculos e projetos deverão ser entregues de forma digital em documentos, mapas na escala definida, planilhas, e arquivos DWG e GIS.  
+
+As medidas mitigadoras previstas e entregues no Plano Funcional Viário deverão ser suficientes para viabilizar o emprendimento quanto aos aspectos de mobilidade urbana, ou seja, dentro da área de influência as condições de nível de serviço deverão atender a um nível de serviço “D” de acorco com o ICU 2003 no horizonte de projeto e 10 anos.
+
+Conforme o manual do DENATRAN, os impactos na circulação viária resultantes da implantação de PGTs deverão ser analisados sistematicamente e deverão apresentar tratamentos que considerem simultaneamente os efeitos indesejáveis na mobilidade e acessibilidade de pessoas e veículos. Tão somente após aprovados pelo município os tratamentos mitigatórios e compensatórios adequados relacionados às diretrizes gerais exigidas e aquelas condições específicas relacionadas ao empreendimento em questão (dada por meio de diretrizes específicas), o processo administrativo enquanto parecer técnico de anuência para execução de obras, serviços e operação poderá ser concluído (DENATRAN, 2001).  
+
+Caso as condicionantes estabelecidas nas diretrizes não sejam atendidas o EIM será devolvido ao responsável pelo empreendimento para revisão, e tais atualizações se darão em interações com o órgão responsável pela avaliação de EIMs até que todas as pendências sejam sanadas e o processo administrativo possa então ser concluído. 
+
+Cabe também ressaltar que o EIM constitui parcela das obrigações do responsável pelo empreendimento, uma vez que o EIM é parte do EVU e deverá estar de acordo com as propostas ambientais, arquitetônicas, urbanísticas e viárias (DENATRAN, 2001), previstas no EVU, de modo que toda alteração em qualquer das partes deverá ser compatibilizada,  a fim de fornecer um conjunto único. 
+
+Estrutura de EIMs
+
+#	CAPA
+
+#	CAPÍTULO 1 – IDENTIFICAÇÃO DO EMPREENDIMENTO (Item 4.2.2 Denatran 2001)  
+
+## Nome do empreendimento / Razão Social / Nome fantasia   
+##	Identificação/Números dos processos que tramitam na PMPA - EU (Expediente Único) e SEI (quando houver)  
+##	Atividade (conforme PDDUA)   
+##	Objeto da proposta (construção, ampliação, modificação de uso, em funcionamento   
+##	Apresentar todas as informações contidas na Planilha de Controle e Registro, de acordo com o EVU apresentado  
+##	Fase do Licenciamento  
+##	Localização  
+##	Responsável legal pelo empreendimento  
+##	Responsável Técnico pelo empreendimento  
+##	Apresentação de responsável técnico pelo EIM com comprovação de habilitação  
+##	Cronograma de execução (fases de desenvolvimento – quando houver)  
+##	Restrições de circulação geradas durante a execução do empreendimento  
+##	Entorno  
+###	Características funcionais, geométricas e físicas das vias existentes (sentidos de circulação, movimentos proibidos, numero de faixas de rolamento, regulamentação de estacionamentos, largura de vias e passeios, raios de curva e inclinação)  
+###	Localizaçao e programação de semáforos  
+###	Pesquisa sobre projetos de modificação do sistema viário de outros polos geradores próximos  
+###	Descrição das atividades desenvolvidas ou previstas, / com breve histórico para empreendimentos existentes, caracterizando o perfil de uso do solo no entorno e destacando empreendimentos que possam competir por viagens geradas para a região.  
+###	Perfil do empreendimento  
+###	Condições existentes, caracterizando o espaço atual	  
+###	Dimensões (área construída, área computável, vagas de estacionamento)  
+###	Áreas e dados específicos que fazem referência às atividades desenvolvidas no empreendimento, conforme tipologia.  
+###	Visão geral do projeto  
+###	Projeto do Empreendimento  
+###	Horários de operação e picos de demanda  
+###	Área construída da edificação  
+###	Área de aproveitamento / Área ocupada do terreno  
+###	Características socioeconômicas de moradores (para empreendimentos residenciais)    
+
+# 3	CAPÍTULO 2 – ANÁLISE DO PROJETO SOB ÓTICA VIÁRIA (Item 4.2.3 Denatran 2001)
+
+##	Croquis de interseções significativas na área de influência direta 
+##	Oferta, dimensionamento e distribuição de vagas de estacionamentos
+##	Dimensionamento e distribuição de áreas de carga e descarga
+##	Adequação de acessos específicos para veículos de emergência (aplicável a empreendimentos promotores de grandes eventos) (Item 5.2.1 Denatran 2001)
+##	Localização dos acessos
+###	Explicação geral sobre os acessos
+###	Croqui/Figura do empreendimento indicando o local dos acessos de pedestres, veículos leves, veículos de carga, áreas de embarque e desembarque e de veículos de emergência, de serviço, etc.
+##	Descrição da circulação e acessibilidade de Pedestres e Transporte Coletivo
+##	Descrição da circulação e acessibilidade de Bicicletas
+##	Descrição da circulação e acessibilidade de Veículos Leves e Motocicletas
+##	Descrição da circulação e acessibilidade de Veículos Pesados
+###	Descrição da circulação e acessibilidade de Táxi, Veículos Fretados, Veículos Especiais e Área de Embarque e Desembarque
+###	Recuos viários
+###	Declividade de rampas
+###	Raios de giro nos acessos e vias de circulação internas
+###	Vias internas de circulação
+###	Cancelas de controle de acesso, caracterizando demanda, tempo de atendimento e área de acumulação (Item 5.2.1 Denatran 2001)
+###	Descrição da sinalização das vias de acesso
+
