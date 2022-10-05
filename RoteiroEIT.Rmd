@@ -142,7 +142,7 @@ CAPA
 ##	Adequação de acessos específicos para veículos de emergência (aplicável a empreendimentos promotores de grandes eventos) (Item 5.2.1 Denatran 2001)
 ##	Localização dos acessos
 ###	Explicação geral sobre os acessos
-###	Croqui/Figura do empreendimento indicando o local dos acessos de pedestres, veículos leves, veículos de carga, áreas de embarque e desembarque e de veículos de emergência, de serviço, etc.
+###	Croqui/Figura do empreendimento indicando o local dos acessos de pedestres, veículos leves, veículos de carga, áreas de embarque e desembarque e de veículos de emergência, de serviço, etc  
 ##	Descrição da circulação e acessibilidade de Pedestres e Transporte Coletivo
 ##	Descrição da circulação e acessibilidade de Bicicletas
 ##	Descrição da circulação e acessibilidade de Veículos Leves e Motocicletas
@@ -201,19 +201,22 @@ CAPA
 ###	Proposição de medidas operacionais ou de gerenciamento do tráfego (quando cabível) visando contribuir na melhoria das condições operacionais – sobretudo aqueles PGVs que em função da natureza da atividade realizam eventos de grande porte que possam sobrecarregar o sistema viário, requerendo intervenção direta sobre a operação da via em datas específicas.
 ###	Medidas a serem tomadas pelo empreendedor para minimizar os impactos causados na malha urbana da cidade pelo empreendimento, tais como:
 ####	Mudança de sentido de tráfego
-####	Implantação e alargamento de vias, 
-####	Implantação de obras de arte,   
-####	Implantação de alterações geométricas,   
-####	Implantação de melhorias de pavimentação.  
-####	Implantação / manutenção de sinalização horizontal, vertical e semafórica.   
-####	Ajustes na programação semafórica.   
-####	Implantação de medidas moderadoras de tráfego.   
+####	Implantação e alargamento de vias 
+####	Implantação de obras de arte   
+####	Implantação de alterações geométricas   
+####	Implantação de melhorias de pavimentação  
+####	Implantação / manutenção de sinalização horizontal, vertical e semafórica   
+####	Ajustes na programação semafórica   
+####	Implantação de medidas moderadoras de tráfego   
 ####	Tratamento para pedestres, ciclistas e pessoas com deficiência ou mobilidade reduzida  
 #####	Recomendação de implantação de linhas de transporte coletivo, escolar ou áreas para embarque e desembarque ou táxi  
 #####	Propostas de fomento à transição modal, como oferta de infraestrutura diferenciada para mobilidade sustentável  
 #####	Outras medidas cabíveis  
 ####	Proposição de medidas mitigatórias quando da impossibilidade de mitigação completa dos impactos negativos  
-####	Plano Funcional Viário como produto final do EIM apresentando projeto básico de todas as intervenções viárias apresentadas para mitigar os impactos do PGV.  
+####	Plano Funcional Viário como produto final do EIM apresentando projeto básico de todas as intervenções viárias apresentadas para mitigar os impactos do PGV  
  
 
+# MEDIDAS FUTURAS DE SEGURANÇA VIÁRIA (Item 5.1 Denatran 2001)
+##	Compromisso de avaliação dos índices de acidentalidade no horizonte de 3 a 5 anos  
+##	Compromisso de proposição de medidas de segurança viária quando identificado incremento nos índices de acidentalidade absolutos e UVP superiores à taxa esperada para a região (DENATRAN, 2001, pag 32)
 
