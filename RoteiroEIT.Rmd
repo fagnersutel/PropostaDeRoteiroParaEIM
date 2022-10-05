@@ -1,5 +1,5 @@
 ---
-title: "ROTEIRO PARA ELABORAÇÃO DE ESTUDO DE IMPACTO NA MOBILIDADE (EIM)"
+title: "Proposta de Roteiro para Elaboração de Estudos de Impacto na Mobilidade (EIM)"
 output:
   html_document:
     df_print: paged
@@ -23,14 +23,29 @@ output:
       h1 {
         font-size: 30px;
         text-align: ;
+        color: #03045e;
       }
       h2 {
         font-size: 25px;
         text-align: ;
+        padding-left: 0.5em;
+        color: #023e8a;
       }
       h3 {
         font-size: 22px;
         text-align: ;
+        padding-left: 1.5em;
+         color: #0077b6;
+      }
+      h4 {
+        font-size: 18px;
+        text-align: ;
+        padding-left: 3em;
+      }
+      h5 {
+        font-size: 18px;
+        text-align: ;
+        padding-left: 4em;
       }
       .main-container {
         max-width: 1800px  !important;
@@ -217,15 +232,15 @@ CAPA
 ####	Ajustes na programação semafórica   
 ####	Implantação de medidas moderadoras de tráfego   
 ####	Tratamento para pedestres, ciclistas e pessoas com deficiência ou mobilidade reduzida  
-#####	Recomendação de implantação de linhas de transporte coletivo, escolar ou áreas para embarque e desembarque ou táxi  
-#####	Propostas de fomento à transição modal, como oferta de infraestrutura diferenciada para mobilidade sustentável  
-#####	Outras medidas cabíveis  
+####	Recomendação de implantação de linhas de transporte coletivo, escolar ou áreas para embarque e desembarque ou táxi  
+####	Propostas de fomento à transição modal, como oferta de infraestrutura diferenciada para mobilidade sustentável  
 ####	Proposição de medidas mitigatórias quando da impossibilidade de mitigação completa dos impactos negativos  
 ####	Plano Funcional Viário como produto final do EIM apresentando projeto básico de todas as intervenções viárias apresentadas para mitigar os impactos do PGV  
+####	Outras medidas cabíveis  
 
 <p> &nbsp;</p>
 
-# MEDIDAS FUTURAS DE SEGURANÇA VIÁRIA (Item 5.1 Denatran 2001)
+# Medidas Futuras de Segurança Viária (Item 5.1 Denatran 2001)
 ##	Compromisso de avaliação dos índices de acidentalidade no horizonte de 3 a 5 anos  
 ##	Compromisso de proposição de medidas de segurança viária quando identificado incremento nos índices de acidentalidade absolutos e UVP superiores à taxa esperada para a região (DENATRAN, 2001, pag 32)
 
@@ -253,6 +268,37 @@ Desse modo:
 * Por fim, naqueles casos com nível de serviço superior a “D” as medidas mitigadoras deverão assegurar no horizonte futuro adotado um nível de serviço igual ao do cenário futuro sem o empreendimento, desse modo variações superiores a 1 ponto percentual no ICU deverão ser mitigadas Tabela 1. A Figura 1 ilustra uma situação em que para aqueles cenários com ICU entre “A” e “C”, a regra da variação possa ser adotada.  
 
 Justificativa: As vias são projetadas em um horizonte de projeto de 25 a 30 anos, assim, tais vias são projetadas para capacidades que consideram o crescimento natural da demanda para o período que compõe o horizonte de projeto. Dessa maneira, quando um empreendimento gera uma alavancagem no crescimento que constitui o dobro do crescimento da demanda natural (quociente 2), isso faz com que a vida útil da instalação seja abreviada, conforme ilustrado na Tabela 2, no cenário do crescimento da demanda com o empreendimento, a capacidade da demanda de projeto atingida no 14º ano abreviando a vida útil de projeto em 11 anos.
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE, error=FALSE, fig.width=12, fig.align='center'}
+library(readxl)
+library(xtable)
+library(knitr)
+dados= read_excel("DadosEIM.xlsx", sheet = 1) 
+kable(dados, caption = "Tabela 1. Regramento.")
+```
+
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE, error=FALSE, fig.width=12, fig.align='center'}
+dados= read_excel("DadosEIM.xlsx", sheet = 2) 
+kable(dados, caption = "Tabela 2. Regramento.")
+```
+
+Figura 1. Cenários reais ICU.  
+```{r , echo=FALSE, fig.cap="", out.width = '100%', message=FALSE}
+knitr::include_graphics("CenarioICU.PNG")
+```
+
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE, error=FALSE, fig.width=12, fig.align='center'}
+library(tidyverse)
+dados= read_excel("DadosEIM.xlsx", sheet = 3) 
+dados$Local = replace_na(data = dados$Local, replace = "")
+dados$AID = replace_na(data = dados$AID, replace = "")
+dados$AII = replace_na(data = dados$AII, replace = "")
+dados$Referência = replace_na(data = dados$Referência, replace = "")
+kable(dados, caption = paste("Tabela Áreas de Influencia Direta e Indireta em", nrow(dados), "Cidades"))
+```
+
 
 <p> &nbsp;</p>
 # Bibliografia:
