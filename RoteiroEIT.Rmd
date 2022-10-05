@@ -100,9 +100,15 @@ Caso as condicionantes estabelecidas nas diretrizes não sejam atendidas o EIM s
 
 Cabe também ressaltar que o EIM constitui parcela das obrigações do responsável pelo empreendimento, uma vez que o EIM é parte do EVU e deverá estar de acordo com as propostas ambientais, arquitetônicas, urbanísticas e viárias (DENATRAN, 2001), previstas no EVU, de modo que toda alteração em qualquer das partes deverá ser compatibilizada,  a fim de fornecer um conjunto único. 
 
+<p> &nbsp;</p>
+
 Estrutura de EIMs
 
+<p> &nbsp;</p>
+
 CAPA
+
+<p> &nbsp;</p>
 
 #	 – Identificação do Empreendimento (Item 4.2.2 Denatran 2001)  
 
@@ -134,6 +140,8 @@ CAPA
 ###	Área de aproveitamento / Área ocupada do terreno  
 ###	Características socioeconômicas de moradores (para empreendimentos residenciais)    
 
+<p> &nbsp;</p>
+
 # – Análise do projeto sob a ótica Viária (Item 4.2.3 Denatran 2001)
 
 ##	Croquis de interseções significativas na área de influência direta 
@@ -155,7 +163,7 @@ CAPA
 ###	Cancelas de controle de acesso, caracterizando demanda, tempo de atendimento e área de acumulação (Item 5.2.1 Denatran 2001)
 ###	Descrição da sinalização das vias de acesso
 
-
+<p> &nbsp;</p>
 #	 – Análise do Espaço Viário (Item 4.2.3 Denatran 2001)
 
 ##	Delimitação da Área de Influência Direta (caracterizado pelas vias de acesso e adjacentes)
@@ -192,7 +200,7 @@ CAPA
 ###	Apresentação da matriz de análise de impactos considerando a fase de ocorrência do impacto, efeito sobre o meio, magnitude dos impactos e medidas de mitigação ou reversibilidade
 
 
-
+<p> &nbsp;</p>
 # Proposição de Medidas (Item 4.2.4 Denatran 2001)  
 ##	Identificação de problemas (circulação, acessibilidade e segurança) no Projeto e proposições de soluções internas e externas ao empreendimento
 ##	Apresentação dos impactos de transição modal quando o empreendimento acarretar mudança do perfil de uso do solo
@@ -214,16 +222,26 @@ CAPA
 #####	Outras medidas cabíveis  
 ####	Proposição de medidas mitigatórias quando da impossibilidade de mitigação completa dos impactos negativos  
 ####	Plano Funcional Viário como produto final do EIM apresentando projeto básico de todas as intervenções viárias apresentadas para mitigar os impactos do PGV  
- 
+
+<p> &nbsp;</p>
 
 # MEDIDAS FUTURAS DE SEGURANÇA VIÁRIA (Item 5.1 Denatran 2001)
 ##	Compromisso de avaliação dos índices de acidentalidade no horizonte de 3 a 5 anos  
 ##	Compromisso de proposição de medidas de segurança viária quando identificado incremento nos índices de acidentalidade absolutos e UVP superiores à taxa esperada para a região (DENATRAN, 2001, pag 32)
 
 
+<p> &nbsp;</p>
+<p> &nbsp;</p>
+#	Informações Adicionais (inovação no modelo):
+
+Projeção do Tráfego de Passagem:  
+Para estimar o tráfego futuro sem o empreendimento urbanístico, são utilizadas taxas de crescimento para o tráfego atual. Na falta de informações específicas, adota-se a taxa de 1,5% ao ano, que é um valor recomendado e utilizado para estudos de tráfego na Região Metropolitana de Porto Alegre (RMPA).  
+A situação futura com projeto é a soma da situação sem projeto com a situação com projeto. Com os dois cenários de análise, situação futura sem projeto e com projeto, é feita uma comparação dos níveis de serviço do sistema viário e são estabelecidos os impactos.  
+Quando houver dados atualizados, oriundos de fontes de dados oficiais, o responsável poderá sugerir para avaliação um cálculo de projeção que julgue adequado, apresentando os dados e o modelo matemático adotado. Após análise, a EPTC indicará se a proposta é aceitável ou se a projeção de 1,5% deve ser mantida.  
 
 
 
+<p> &nbsp;</p>
 # Bibliografia:
 
 Albert. (2018) Transportation Impact Assessment Guidelines. Albert. Obtido de https://stalbert.ca/site/assets/files/6500/pd_transportation-impact-assessment.pdf  
