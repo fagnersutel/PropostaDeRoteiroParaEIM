@@ -102,9 +102,9 @@ Cabe também ressaltar que o EIM constitui parcela das obrigações do responsá
 
 Estrutura de EIMs
 
-	CAPA
+CAPA
 
-#	 – IDENTIFICAÇÃO DO EMPREENDIMENTO (Item 4.2.2 Denatran 2001)  
+#	 – Identificação do Empreendimento (Item 4.2.2 Denatran 2001)  
 
 ## Nome do empreendimento / Razão Social / Nome fantasia   
 ##	Identificação/Números dos processos que tramitam na PMPA - EU (Expediente Único) e SEI (quando houver)  
@@ -134,7 +134,7 @@ Estrutura de EIMs
 ###	Área de aproveitamento / Área ocupada do terreno  
 ###	Características socioeconômicas de moradores (para empreendimentos residenciais)    
 
-# – ANÁLISE DO PROJETO SOB ÓTICA VIÁRIA (Item 4.2.3 Denatran 2001)
+# – Análise do projeto sob a ótica Viária (Item 4.2.3 Denatran 2001)
 
 ##	Croquis de interseções significativas na área de influência direta 
 ##	Oferta, dimensionamento e distribuição de vagas de estacionamentos
@@ -156,7 +156,8 @@ Estrutura de EIMs
 ###	Descrição da sinalização das vias de acesso
 
 
-#	 – ANÁLISE DO ESPAÇO VIÁRIO (Item 4.2.3 Denatran 2001)
+#	 – Análise do Espaço Viário (Item 4.2.3 Denatran 2001)
+
 ##	Delimitação da Área de Influência Direta (caracterizado pelas vias de acesso e adjacentes)
 ##	Caracterização do plano diretor para o local – quando houver
 ##	Principais eixos de ligação à área de influência direta
@@ -189,4 +190,30 @@ Estrutura de EIMs
 ###	Análise das condições de circulação de modais alternativos, sobretudo aqueles relacionados à mobilidade ativa
 ###	Avaliação das condições de acesso e circulação de veículos e pedestres no interior do empreendimento, bem como no entorno, considerando sobretudo as interferências acarretadas ao fluxo de passagem, considerando as condições vigentes de fluidez e segurança
 ###	Apresentação da matriz de análise de impactos considerando a fase de ocorrência do impacto, efeito sobre o meio, magnitude dos impactos e medidas de mitigação ou reversibilidade
+
+
+
+# Proposição de Medidas (Item 4.2.4 Denatran 2001)  
+##	Identificação de problemas (circulação, acessibilidade e segurança) no Projeto e proposições de soluções internas e externas ao empreendimento
+##	Apresentação dos impactos de transição modal quando o empreendimento acarretar mudança do perfil de uso do solo
+##	Apresentar Projeto de Sinalização, se houver estacionamento
+##	Apresentação de Medidas no espaço viário, externo ao empreendimento
+###	Proposição de medidas operacionais ou de gerenciamento do tráfego (quando cabível) visando contribuir na melhoria das condições operacionais – sobretudo aqueles PGVs que em função da natureza da atividade realizam eventos de grande porte que possam sobrecarregar o sistema viário, requerendo intervenção direta sobre a operação da via em datas específicas.
+###	Medidas a serem tomadas pelo empreendedor para minimizar os impactos causados na malha urbana da cidade pelo empreendimento, tais como:
+####	Mudança de sentido de tráfego
+####	Implantação e alargamento de vias, 
+####	Implantação de obras de arte,   
+####	Implantação de alterações geométricas,   
+####	Implantação de melhorias de pavimentação.  
+####	Implantação / manutenção de sinalização horizontal, vertical e semafórica.   
+####	Ajustes na programação semafórica.   
+####	Implantação de medidas moderadoras de tráfego.   
+####	Tratamento para pedestres, ciclistas e pessoas com deficiência ou mobilidade reduzida  
+#####	Recomendação de implantação de linhas de transporte coletivo, escolar ou áreas para embarque e desembarque ou táxi  
+#####	Propostas de fomento à transição modal, como oferta de infraestrutura diferenciada para mobilidade sustentável  
+#####	Outras medidas cabíveis  
+####	Proposição de medidas mitigatórias quando da impossibilidade de mitigação completa dos impactos negativos  
+####	Plano Funcional Viário como produto final do EIM apresentando projeto básico de todas as intervenções viárias apresentadas para mitigar os impactos do PGV.  
+ 
+
 
