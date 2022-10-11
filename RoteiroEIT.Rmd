@@ -319,6 +319,7 @@ kable(dados, caption = paste("Tabela 3. Áreas de Influencia Direta e Indireta e
 
 
 <p> &nbsp;</p>
+
 <span style="font-size: 1.5em; font-weight: bold;"> Bibliografia:</span>
 <p>
 Albert. (2018) Transportation Impact Assessment Guidelines. Albert. Obtido de https://stalbert.ca/site/assets/files/6500/pd_transportation-impact-assessment.pdf  
