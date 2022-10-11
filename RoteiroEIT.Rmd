@@ -1,13 +1,13 @@
 ---
 title: "Proposta de Roteiro para Elaboração de Estudos de Impacto na Mobilidade (EIM)"
 output:
-  pdf_document:
-    toc: yes
   html_document:
     df_print: paged
     number_sections: yes
     toc: yes
     toc_float: yes
+  pdf_document:
+    toc: yes
   word_document:
     toc: yes
 ---
@@ -319,7 +319,6 @@ kable(dados, caption = paste("Tabela 3. Áreas de Influencia Direta e Indireta e
 
 
 <p> &nbsp;</p>
-
 <span style="font-size: 1.5em; font-weight: bold;"> Bibliografia:</span>
 <p>
 Albert. (2018) Transportation Impact Assessment Guidelines. Albert. Obtido de https://stalbert.ca/site/assets/files/6500/pd_transportation-impact-assessment.pdf  
@@ -336,9 +335,7 @@ Barueri. (2019) Termo de referência (Roteiro) paa elaboração do relatório de
 
 Bragança Paulista. (2016) Estudo de Impacto de Vizinhança e Relatório de Impacto de Vizinhança. Bragança Paulista. Obtido de https://www.caubr.gov.br/wp-content/uploads/2017/10/CAPACIDADES4.pdf  
 
-Brasil. (2018) Lei no 13.614/2018. Obtido 11 de outubro de 2022, de https://legislacao.presidencia.gov.br/atos/?tipo=LEI&numero=13614&ano=2018&ato=e6ao3aq1UeZpWTea1
-
-BRASIL. (1997). Lei 9503. Brasília. Obtido de http://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm  
+BRASIL. Lei 9503. (1997). Brasília. Obtido de http://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm  
 
 BTO. (2021) Traffic impacts Analysis Guidelines. Milwaukee.  
 
@@ -409,13 +406,10 @@ Matthews. (2021) Transportation Impact Analysis (TIA) Process and Procedures Man
 Menlo Park. (2020) Trasnportetion Impact Analysis Guidelines. Menlo Park, Menlo Park.
 
 Mussi, C. W., Sachet, S., Canali, R. V, Grando, L., e Salvador, J. L. A. C. E. A. F. L. C. A. (1988) Shopping 
+
 Center Beiramar – Análise socioeconômica. Florianópolis.  
 
 Niagara Region. (2012) Guidelines for Transportation Impact Studies. Thorold. Obtido de https://www.niagararegion.ca/business/pdf/traffic-impact-study-guidelines.pdf  
-
-ONU. (2019) Objetivos de Desenvolvimento Sustentável | As Nações Unidas no Brasil. Obtido 11 de outubro de 2022, de https://brasil.un.org/pt-br/sdgs
-
-ONU. (2020) UN Resolution on Improving Global Road Safety - Global Alliance of NGOs for Road Safety. Obtido 11 de outubro de 2022, de https://www.roadsafetyngos.org/about/about-road-safety/un-resolution-on-improving-global-road-safety/
 
 Passadena. (2022) TRANSPORTATION IMPACT ANALYSIS GUIDELINES. Passadena. Obtido de https://www.cityofpasadena.net/transportation/community-mobility/transportation-impact-review/
 
@@ -426,8 +420,6 @@ PDT. (2017) Policies and Procedures for Transportation Impact Studies. Harrisbur
 Policies and Procedures for Transportation Impact Studies.pdf  
 
 Plano. (2022) Plan Zoning Ordinance. Plano. Obtido de https://www.plano.gov/1277/Zoning-Ordinance
-
-Porto Alegre. (2022) Plano de Segurança Viária Sustentável da cidade de Porto Alegre. DOPA. Obtido 11 de outubro de 2022, de https://dopaonlineupload.procempa.com.br/dopaonlineupload/4528_ce_378557_1.pdf
 
 Portugal, L. da S., e Goldner, L. G. (2003) Estudo de Polos Geradores de Tráfego e seus Impactos nos Sistemas Viários de Transportes. (1o ed). Edgard Blücher, São Paulo.  
 
