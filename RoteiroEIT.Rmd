@@ -1,13 +1,13 @@
 ---
 title: "Proposta de Roteiro para Elaboração de Estudos de Impacto na Mobilidade (EIM)"
 output:
+  pdf_document:
+    toc: yes
   html_document:
     df_print: paged
     number_sections: yes
     toc: yes
     toc_float: yes
-  pdf_document:
-    toc: yes
   word_document:
     toc: yes
 ---
@@ -71,47 +71,35 @@ output:
       </style> 
 
 
-Polos Geradores de Viagens (PGVs) são empreendimentos com capacidade de geração de volumes expressivos de viagens para deslocamento de pessoas ou cargas. De acordo com o Art. 93 do CTB, empreendimentos de grande porte caracterizados como polos geradores de tráfego somente podem ser aprovados após anuência do órgão ou entidade de trânsito com circunscrição sobre a via (BRASIL, 1997). Durante as etapas de execução e operação de grandes empreendimentos, os diferentes interessados compartilham os mesmos objetivos em relação à segurança e eficiência dos sistemas de transporte e mobilidade urbana, bem como a compatibilidade com a política de desenvolvimento urbano. Nesse sentido, análises de impacto de tráfego conduzidas de forma apropriada podem fornecer uma base factual para suportar decisões acertadas em relação às janelas temporais de mitigação de efeitos gerados por empreendimentos que produzem e/ou atraem viagens e caracterizados como PGVs (DENATRAN, 2001), garantindo a qualidade dos deslocamentos e seu uso sustentável por meio de uma distribuição justa e equitativa dos espaços de deslocamento (Licínio Portugal, 2012).  
-
-
-Dessa maneira, o município e responsáveis pelos PGVs devem promover iniciativas alinhadas que garantam ao cidadão seu direito de ir e vir através de  deslocamentos seguros, e que promovam a qualidade de vida e sustentabilidade (DENATRAN, 2001). Ainda que a municipalidade contribua fornecendo diretrizes, informações e orientações necessárias para elaboração de EIMs, é de responsabilidade do empreendedor a elaboração do EIM e a coleta de dados necessária que caracterizem e descrevam a influência de viagens geradas pelos PGVs no contexto total de viagens nas áreas de influência (DENATRAN, 2001; Licínio Portugal, 2012). Desse modo, os custos incorridos para elaboração do EIM e o ônus de medidas resultantes dos impactos apontados pelo EIM são de responsabilidade do empreendedor (**PlanoDiretor**; Art. 56; Parágrafo Único, pag. 67)(DENATRAN, 2001).  
-
-Este documento consolida as diretrizes gerais para elaboração de EIMs de empreendimentos em **NomeDoMunicípio**, considerando as definições do Manual de Procedimentos para o Tratamento de Polos Geradores de Tráfego (DENATRAN, 2001), e as diretrizes gerais indicadas pelo município de **NomeDoMunicípio** em seu **PlanoDiretor**. Todo emprendimento que, de acordo com os critérios estabelecidos pela **SecretariaMobilidadeXX** , estiverem obrigados a elaborar seu EIM deverão considerar as definições desse documento e solicitar ao órgão de trânsito competente as diretrizes específicas ao emprendimento (caso existam) considerando as peculiaridades do local e do empreendimento.
-
-Os EIMs são adotados em casos de implantação, expansão ou mudança das finalidades de uso de PGVs. Tais estudos devem considerar valores de referência mínimos de viagens geradas por hora pico para que se defina o impacto dos mesmos e quando da desobrigação da realização de EIMs ou adoção de modelos simplificados dos mesmos. EIMs simplificados consideram apenas o ano base de inauguração do empreendimento, enquanto EIMs completos abordam horizontes temporais de 10 anos definidos pelo órgão competente. 
-No município de **NomeDoMunicípio** os projetos objeto de EVU (Estudo de Viabilidade Urbanística) são caracterizados como Projetos Especiais de Impacto Urbano de 1º, 2º e 3º graus de acordo com os artigos 55, 56, 59, 61 e 62 do **PlanoDiretor**.  
-
-Dessa forma EIMs requerem técnicas de previsão de demandas e análise de capacidade do sistema para suportar tais condições. Por meio de tais analises e previsões os EIMs devem avaliar a intensificação de congestionamentos (aumento dos tempos de deslocamento), a deterioração das condições físicas da área de influência (redução de conforto e segurança), os conflitos entre tráfego de passagem e aquele associado ao empreendimento (dificuldade de acesso a certas áreas), a demanda por áreas de estacionamento, embarque/desembarque e carga/descarga (DENATRAN, 2001). Também devem ser considerados os impactos sobre o transporte público (**PlanoDiretor**; Art. 56.; I, a e Art. 57; V, DENATRAN, 2001 4.2.3, pag.24) e modais alternativos que promovam a sustentabilidade (Licinio Portugal, 2012).   
-
-Os EIMs, enquanto estudos especializados, permitem determinar potenciais impactos gerados por PGV, apontando benefícios gerados a serem maximizados e os impactos negativos considerados como pontos críticos e as possíveis alternativas de resolução dos mesmos (DENATRAN, 2001). Tais estudos respondem questões relacionadas a impactos derivados da implantação de PGVs (Erika Cristine Kneib, 2011), que consideram:   
-
-•	Condições atuais de tráfego  
-•	Expectativa de condições futuras com e sem a existência do PGV  
-•	A consideração de modais de maior produtividade social como modais ativos e transporte público  
-•	Capacidade do modelo atual de mobilidade em atender demandas futuras  
-•	Necessidades adicionais de mobilidade/acessibilidade que garantam a manutenção do atual Nível de Serviço (NS) para os diferentes modais   
-•	Recomendações de melhorias viárias para acomodar demandas futuras de tráfego  
-
-As respostas a essas questões contribuem para que a administração pública possa avaliar a conveniência dos PGTs e garantir que tais empreendimentos estejam comprometidos com os interesses coletivos da região.   
-
+Polos Geradores de Viagens (PGVs) são empreendimentos com capacidade de geração de volumes expressivos de viagens para deslocamento de pessoas ou cargas. De acordo com o Art. 93 do CTB, empreendimentos de grande porte caracterizados como polos geradores de tráfego somente podem ser aprovados após anuência do órgão ou entidade de trânsito com circunscrição sobre a via (BRASIL, 1997). Durante as etapas de execução e operação de grandes empreendimentos, os diferentes interessados compartilham os mesmos objetivos em relação à segurança e eficiência dos sistemas de transporte e mobilidade urbana, bem como a compatibilidade com a política de desenvolvimento urbano. Nesse sentido, análises de impacto de tráfego conduzidas de forma apropriada podem fornecer uma base factual para suportar decisões acertadas em relação às janelas temporais de mitigação de efeitos gerados por empreendimentos que produzem e/ou atraem viagens e caracterizados como PGVs (DENATRAN, 2001), garantindo a qualidade e segurança dos deslocamentos e seu uso sustentável (ONU, 2019, 2020) por meio de uma distribuição justa e equitativa dos espaços de deslocamento (Licínio Portugal, 2012). 
+Dessa maneira, o município e responsáveis pelos PGVs devem promover iniciativas alinhadas que garantam ao cidadão seu direito de ir e vir através de  deslocamentos seguros, e que promovam a qualidade de vida e sustentabilidade (DENATRAN, 2001). Ainda que a municipalidade contribua fornecendo diretrizes, informações e orientações necessárias para elaboração de EIMs, é de responsabilidade do empreendedor a elaboração do EIM e a coleta de dados necessária que caracterizem e descrevam a influência de viagens geradas pelos PGVs no contexto total de viagens nas áreas de influência (DENATRAN, 2001; Licínio Portugal, 2012). Desse modo, os custos incorridos para elaboração do EIM e o ônus de medidas resultantes dos impactos apontados pelo EIM são de responsabilidade do empreendedor (**Plano Diretor**; Art. 56; Parágrafo Único, pag. 67)(DENATRAN, 2001).
+Este documento consolida as diretrizes gerais para elaboração de EIMs de empreendimentos em **Nome do Município**, considerando as definições do Manual de Procedimentos para o Tratamento de Polos Geradores de Tráfego (DENATRAN, 2001), e as diretrizes gerais indicadas pelo município de **Nome do Município** em seu **Plano Diretor**. Todo emprendimento que, de acordo com os critérios estabelecidos pela **Secretaria de Mobilidade**, estiverem obrigados a elaborar seu EIM deverão considerar as definições desse documento e solicitar ao órgão de trânsito competente as diretrizes específicas ao emprendimento (caso existam) considerando as peculiaridades do local e do empreendimento.  
+No município de **Nome do Município** os projetos objeto de EVU (Estudo de Viabilidade Urbanística) são caracterizados como Projetos Especiais de Impacto Urbano de 1º, 2º e 3º graus de acordo com os artigos 55, 56, 59, 61 e 62 do **Plano Diretor**, sendo aqueles de 2º e 3º em sua maioria empreendimentos com características que requerem a elaboração de EIM.Os EIMs são adotados em casos de implantação, expansão ou mudança das finalidades de uso de PGVs etais estudos devem considerar valores de referência mínimos de viagens geradas por hora pico para que se defina o impacto dos mesmos. 
+Dessa forma EIMs requerem técnicas de previsão de demandas e análise de capacidade do sistema para suportar tais condições. Por meio de tais analises e previsões os EIMs devem avaliar a intensificação de congestionamentos (aumento dos tempos de deslocamento), a deterioração das condições físicas da área de influência (redução de conforto e segurança), os conflitos entre tráfego de passagem e aquele associado ao empreendimento (dificuldade de acesso a certas áreas), a demanda por áreas de estacionamento, embarque/desembarque e carga/descarga (DENATRAN, 2001). Também devem ser considerados os impactos sobre o transporte público (**Plano Diretor**; Art. 56.; I, a e Art. 57; V, DENATRAN, 2001 4.2.3, pag.24) e modais alternativos que promovam a sustentabilidade e a segurança dos usuários da via (Licinio Portugal, 2012). 
+Os EIMs, enquanto estudos especializados, permitem determinar potenciais impactos gerados por PGV, apontando benefícios gerados a serem maximizados e os impactos negativos considerados como pontos críticos e as possíveis alternativas de resolução dos mesmos (DENATRAN, 2001). Tais estudos respondem questões relacionadas a impactos derivados da implantação de PGVs (Erika Cristine Kneib, 2011), que consideram: 
+•	Condições atuais de tráfego
+•	Expectativa de condições futuras com e sem a existência do PGV
+•	A consideração de modais de maior produtividade social como modais ativos e transporte público
+•	Capacidade do modelo atual de mobilidade em atender demandas futuras
+•	Necessidades adicionais de mobilidade/acessibilidade que garantam a manutenção do atual Nível de Serviço (NS) para os diferentes modais 
+•	Recomendações de melhorias viárias para acomodar demandas futuras de tráfego
+As respostas a essas questões contribuem para que a administração pública possa avaliar a conveniência dos PGTs e garantir que tais empreendimentos estejam comprometidos com os interesses coletivos da região. 
 Ao solicitar diretrizes para o EIM a ser realizado o empreendedor já deve de antemão fornecer documentos com o plano de edificação, destacando as finalidades de uso, expectativa de geração de viagens e apontamento dos modelos e fatores de cálculo para as estimativas de demanda – valores esses que poderão ser atualizados quando da elaboração do EIM. 
+As melhorias a serem executadas não necessariamente dependem apenas de resultados apontados no EIM visando eliminar, mitigar ou compensar os efeitos negativos identificados durante as fases de implantação/operação do empreendimento, tais melhorias também podem ser solicitadas pelo órgão gestor quando houver recomendações de melhorias necessárias à região identificadas em documentos como plano diretor e afins (**Plano Diretor**; Art. 55; § 1º, pag. 66), e ainda, quando houver evidentes assimetrias no uso da estrutura viária no entorno do empreendimento relacionadas à oferta e demanda de vagas de estacionamento, ou uso da capacidade viária frente à demanda gerada pelo PGT conforme a (Tabela 1. Regramento.) (DENATRAN, 2001).
+Dessa maneira, responsáveis por PGTs em alinhamento com o órgão gestor de tráfego devem viabilizar os espaços internos necessários para estacionamento, embarque/desembarque e carga e descarga na área interna do empreendimento e garantir a melhor inserção possível do empreendimento na malha viária do município, reduzindo a perturbação no tráfego de passagem e o impacto na vizinhança ao garantir que o empreendimento irá absorver internamente a demanda gerada e tratar os conflitos externos gerados, bem como os problemas de acessibilidade de veículos e pedestres, ao mesmo tempo que assegure operações de carga e descarga em área específica do PGT. 
+Os responsáveis pela elaboração de EIMs deverão comprovar habilitação para realização de tais estudos. Neste caso o técnico responsável deverá fornecer documento assinado informando que se responsabiliza pela supervisão do estudo, atestando a veracidade dos dados apresentados – sob pena de responsabilização em caso de má fé na apresentação de dados precários sem a devida menção de qualquer limitação nas informações prestadas. Da mesma forma o órgão competente se compromete em submeter os estudos encaminhados a um corpo técnico habilitado e respaldado para análise de EIMs. 
+Embora responsáveis pela elaboração de EIMS e avaliadores de EIMS possuam papeis e objetivos específicos, ambos devem se comprometer em seguir critérios éticos e objetivos na condução de análises e revisões de EIMs visando a obtenção de melhores soluções em segurança, mobilidade, acessibilidade, conforto e preservação do ambiente circundante (**Plano Diretor**; Art. 56; I, a). 
+Os EIMs deverão obedecer às normas ABNT de redação e demais exigências aplicadas pelo órgão responsável.  Ainda, todos os dados de estudos, modelagens, cálculos e projetos deverão ser entregues de forma digital em documentos, mapas na escala 1:1000, planilhas, e arquivos DWG e GIS.
+As medidas mitigadoras previstas e entregues no Plano Funcional Viário deverão ser suficientes para viabilizar o emprendimento quanto aos aspectos de mobilidade urbana de acorco com o ICU 2003 no horizonte de projeto e 10 anos , de acordo com os seguintes critérios.
+•	Nos casos com nível de serviço atual de A a C, todo impacto que apresente um quociente superior a 2 (dois) deverá mitigar ou compensar tais efeitos e em casos em que o quociente for superior a 4 (quatro), deverá obrigatoriamente mitigar os efeitos no local em que foi identificada a variação do nível de serviço. 
+•	Nos casos de “A” a “D” que ultrapassem o nível de serviço “D” com o empreendimento, as medidas mitigadoras deverão garantir uma situação em que o nível de serviço não ultrapasse “D”. 
+•	Nos casos em que o nível de serviço atual for “D”, e com o empreendimento seja mantido o nível “D”, mas com variação superior a 2 pontos percentuais, deverão ser aplicadas mitigações. 
+•	Por fim, naqueles casos com nível de serviço superior a “D” as medidas mitigadoras deverão assegurar no horizonte futuro adotado um nível de serviço igual ao do cenário futuro sem o empreendimento, desse modo variações superiores a 1 ponto percentual no ICU deverão ser mitigadas Tabela 1. 
 
-As melhorias a serem executadas não necessariamente dependem apenas de resultados apontados no EIM visando eliminar, mitigar ou compensar os efeitos negativos identificados durante as fases de implantação/operação do empreendimento, mas podem ser solicitados pelo órgão gestor quando houver recomendações de melhorias necessárias à região identificadas em documentos como plano diretor (**PlanoDiretor**; Art. 55; § 1º, pag. 66), e ainda, quando houver evidentes assimetrias no uso da estrutura viária no entorno do empreendimento relacionadas à oferta e demanda de vagas de estacionamento, ou uso da capacidade viária conforme a (Tabela 1. Regramento.) (DENATRAN, 2001).  
+Conforme o manual do DENATRAN, os impactos na circulação viária resultantes da implantação de PGTs deverão ser analisados sistematicamente e deverão apresentar tratamentos que considerem simultaneamente os efeitos indesejáveis na segurança, mobilidade e acessibilidade de pessoas e veículos. Tão somente após aprovados pelo município os tratamentos mitigatórios e compensatórios adequados relacionados às diretrizes gerais exigidas e aquelas condições específicas relacionadas ao empreendimento em questão (dada por meio de diretrizes específicas), o processo administrativo enquanto parecer técnico de anuência para execução de obras, serviços e operação poderá ser concluído (DENATRAN, 2001). 
+Caso as condicionantes estabelecidas nas diretrizes não sejam atendidas o EIM será devolvido ao responsável pelo empreendimento para revisão, e tais atualizações se darão em iterações com o órgão responsável pela avaliação de EIMs até que todas as pendências sejam sanadas e o processo administrativo possa então ser concluído. 
+Cabe também ressaltar que o EIM constitui parcela das obrigações do responsável pelo empreendimento, uma vez que o EIM é parte do EVU e deverá estar de acordo com as propostas ambientais, arquitetônicas, urbanísticas e viárias (DENATRAN, 2001), previstas no EVU, de modo que toda alteração em qualquer das partes deverá ser compatibilizada,  a fim de fornecer um conjunto único.
 
-Dessa maneira, responsáveis por PGTs em alinhamento com o órgão gestor de tráfego devem viabilizar os espaços internos necessários para estacionamento, embarque/desembarque e carga e descarga na área interna do empreendimento e garantir a melhor inserção possível do empreendimento na malha viária do município, reduzindo a perturbação no tráfego de passagem e o impacto na vizinhança ao garantir que o empreendimento irá absorver internamente a demanda gerada e tratar os conflitos externos gerados, bem como os problemas de acessibilidade de veículos e pedestres, ao mesmo tempo que assegure operações de carga e descarga em área específica do PGT.  
-
-Os responsáveis pela elaboração de EIMs deverão comprovar habilitação para realização de tais estudos. Neste caso o técnico responsável deverá fornecer documento assinado informando que se responsabiliza pela supervisão do estudo, atestando a veracidade dos dados apresentados – sob pena de responsabilização em caso de má fé na apresentação de dados precários sem a devida menção de qualquer limitação nas informações prestadas. Da mesma forma o órgão competente se compromete em submeter os estudos encaminhados a um corpo técnico habilidade e respaldado para análise de EIMs.   
-
-Embora responsáveis pela elaboração de EIMS e avaliadores de EIMS possuam papeis e objetivos específicos, ambos devem se comprometer em seguir critérios éticos e objetivos na condução de análises e revisões de EIMs visando a obtenção de melhores soluções em segurança, mobilidade, acessibilidade, conforto e preservação do ambiente circundante (**PlanoDiretor**; Art. 56; I, a). 
-Os EIMs deverão obedecer às normas ABNT de redação e demais exigências aplicadas pelo órgão responsável.  Ainda, todos os dados de estudos, modelagens, cálculos e projetos deverão ser entregues de forma digital em documentos, mapas na escala definida, planilhas, e arquivos DWG e GIS.  
-
-As medidas mitigadoras previstas e entregues no Plano Funcional Viário deverão ser suficientes para viabilizar o emprendimento quanto aos aspectos de mobilidade urbana, ou seja, dentro da área de influência as condições de nível de serviço deverão atender a um nível de serviço **D** de acorco com o ICU 2003 no horizonte de projeto e 10 anos.
-
-Conforme o manual do DENATRAN, os impactos na circulação viária resultantes da implantação de PGTs deverão ser analisados sistematicamente e deverão apresentar tratamentos que considerem simultaneamente os efeitos indesejáveis na mobilidade e acessibilidade de pessoas e veículos. Tão somente após aprovados pelo município os tratamentos mitigatórios e compensatórios adequados relacionados às diretrizes gerais exigidas e aquelas condições específicas relacionadas ao empreendimento em questão (dada por meio de diretrizes específicas), o processo administrativo enquanto parecer técnico de anuência para execução de obras, serviços e operação poderá ser concluído (DENATRAN, 2001).  
-
-Caso as condicionantes estabelecidas nas diretrizes não sejam atendidas o EIM será devolvido ao responsável pelo empreendimento para revisão, e tais atualizações se darão em interações com o órgão responsável pela avaliação de EIMs até que todas as pendências sejam sanadas e o processo administrativo possa então ser concluído. 
-
-Cabe também ressaltar que o EIM constitui parcela das obrigações do responsável pelo empreendimento, uma vez que o EIM é parte do EVU e deverá estar de acordo com as propostas ambientais, arquitetônicas, urbanísticas e viárias (DENATRAN, 2001), previstas no EVU, de modo que toda alteração em qualquer das partes deverá ser compatibilizada,  a fim de fornecer um conjunto único. 
 
 <p> &nbsp;</p>
 
@@ -347,7 +335,9 @@ Barueri. (2019) Termo de referência (Roteiro) paa elaboração do relatório de
 
 Bragança Paulista. (2016) Estudo de Impacto de Vizinhança e Relatório de Impacto de Vizinhança. Bragança Paulista. Obtido de https://www.caubr.gov.br/wp-content/uploads/2017/10/CAPACIDADES4.pdf  
 
-BRASIL. Lei 9503. (1997). Brasília. Obtido de http://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm  
+Brasil. (2018) Lei no 13.614/2018. Obtido 11 de outubro de 2022, de https://legislacao.presidencia.gov.br/atos/?tipo=LEI&numero=13614&ano=2018&ato=e6ao3aq1UeZpWTea1
+
+BRASIL. (1997). Lei 9503. Brasília. Obtido de http://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm  
 
 BTO. (2021) Traffic impacts Analysis Guidelines. Milwaukee.  
 
@@ -418,10 +408,13 @@ Matthews. (2021) Transportation Impact Analysis (TIA) Process and Procedures Man
 Menlo Park. (2020) Trasnportetion Impact Analysis Guidelines. Menlo Park, Menlo Park.
 
 Mussi, C. W., Sachet, S., Canali, R. V, Grando, L., e Salvador, J. L. A. C. E. A. F. L. C. A. (1988) Shopping 
-
 Center Beiramar – Análise socioeconômica. Florianópolis.  
 
 Niagara Region. (2012) Guidelines for Transportation Impact Studies. Thorold. Obtido de https://www.niagararegion.ca/business/pdf/traffic-impact-study-guidelines.pdf  
+
+ONU. (2019) Objetivos de Desenvolvimento Sustentável | As Nações Unidas no Brasil. Obtido 11 de outubro de 2022, de https://brasil.un.org/pt-br/sdgs
+
+ONU. (2020) UN Resolution on Improving Global Road Safety - Global Alliance of NGOs for Road Safety. Obtido 11 de outubro de 2022, de https://www.roadsafetyngos.org/about/about-road-safety/un-resolution-on-improving-global-road-safety/
 
 Passadena. (2022) TRANSPORTATION IMPACT ANALYSIS GUIDELINES. Passadena. Obtido de https://www.cityofpasadena.net/transportation/community-mobility/transportation-impact-review/
 
@@ -432,6 +425,8 @@ PDT. (2017) Policies and Procedures for Transportation Impact Studies. Harrisbur
 Policies and Procedures for Transportation Impact Studies.pdf  
 
 Plano. (2022) Plan Zoning Ordinance. Plano. Obtido de https://www.plano.gov/1277/Zoning-Ordinance
+
+Porto Alegre. (2022) Plano de Segurança Viária Sustentável da cidade de Porto Alegre. DOPA. Obtido 11 de outubro de 2022, de https://dopaonlineupload.procempa.com.br/dopaonlineupload/4528_ce_378557_1.pdf
 
 Portugal, L. da S., e Goldner, L. G. (2003) Estudo de Polos Geradores de Tráfego e seus Impactos nos Sistemas Viários de Transportes. (1o ed). Edgard Blücher, São Paulo.  
 
